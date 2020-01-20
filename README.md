@@ -12,3 +12,7 @@ Se recomienda crear una organización que sea propietaria del repositorio princi
 3. Click en Organizaciones (Menú izquierda)
 4. Click en Nueva Organización
 5. Elegir plan y llenar datos
+
+### Creación de Fork
+
+Para crear un fork debes iniciar sesión con GitHub y luego ingresar a la landing page del proyecto del que quieras sacar tu Fork.
