@@ -13,6 +13,15 @@ Se recomienda crear una organización que sea propietaria del repositorio princi
 4. Click en Nueva Organización
 5. Elegir plan y llenar datos
 
-### Creación de Fork
+## Creación de Fork
 
 Para crear un fork debes iniciar sesión con GitHub y luego ingresar a la landing page del proyecto del que quieras sacar tu Fork.
+
+## Como trabajar con 2 o más remotos
+
+1. Listar remotos
+  `git remote -v`
+2. Agregar remotos
+  `git remote add workflow git@github.com:ComunidadOSH-cbba/work-flow.git`
+3. Eliminar remotos
+  `git remote remove workflow` 
