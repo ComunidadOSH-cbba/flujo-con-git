@@ -25,3 +25,9 @@ Para crear un fork debes iniciar sesión con GitHub y luego ingresar a la landin
   `git remote add workflow git@github.com:ComunidadOSH-cbba/work-flow.git`
 3. Eliminar remotos
   `git remote remove workflow` 
+
+## Creando etiquetas
+
+Es necesario entender que las etiquetas (o realeses) sólo deben ser creadas a partir de la rama master como buena práctica.
+
+Para entender como llamar o categorizar a tus versiones, te recomendamos un articulo en nuestro blog https://ed.team/blog/como-se-deciden-las-versiones-del-software
